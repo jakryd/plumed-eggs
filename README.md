@@ -1,5 +1,5 @@
 ### plumed-eggs
-Archive of data shared on [PLUMED-NEST](www.plumed-nest.org).
+Archive of data shared on [PLUMED-NEST](https://www.plumed-nest.org).
 
 -------------------------------------------------------------
 
