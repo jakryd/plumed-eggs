@@ -1,0 +1,5 @@
+UNITS LENGTH=nm TIME=ps ENERGY=kcal/mol
+
+pws: PATHMSD REFERENCE=pws.pdb LAMBDA=62
+
+PRINT ARG=* STRIDE=10 FILE=colvar_pws FMT=%12.8f

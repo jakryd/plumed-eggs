@@ -1,0 +1,5 @@
+UNITS LENGTH=nm TIME=ps ENERGY=kcal/mol
+
+pwf: PATHMSD REFERENCE=pwf.pdb LAMBDA=65
+
+PRINT ARG=* STRIDE=10 FILE=colvar_pwf FMT=%12.8f
