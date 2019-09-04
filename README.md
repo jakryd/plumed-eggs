@@ -21,4 +21,4 @@ transparency and reproducibility in molecular simulations*, Submitted (2019).
 * J. Rydzewski, R. Jakubowski, W. Nowak, and H. Grubmüller, *Kinetics of Huperzine A Dissociation from Acetylcholinesterase via Multiple Unbinding Pathways*, [J. Chem. Theory Comput. 14, 2843 (2018)](https://doi.org/10.1021/acs.jctc.8b00173)  
 
 ### 2017
-__J. Rydzewski__, and W. Nowak, *Thermodynamics of Camphor Migration in Cytochrome P450cam by Atomistic Simulations*, [Sci. Rep. 7, 7736 (2017)](https://doi.org/10.1038/s41598-017-07993-0){: .btn .btn--inverse .btn--small}
+* J. Rydzewski, and W. Nowak, *Thermodynamics of Camphor Migration in Cytochrome P450cam by Atomistic Simulations*, [Sci. Rep. 7, 7736 (2017)](https://doi.org/10.1038/s41598-017-07993-0)
